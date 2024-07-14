@@ -1,0 +1,15 @@
+/*all pages header*/
+
+.logo {
+    height: 70px;
+    width: 110px; 
+}
+
+.navbar {
+    background-image: linear-gradient(to right, $color-secondary, $color-primary);
+    color: white;
+    li a {
+        color: white;
+    }
+}
+
